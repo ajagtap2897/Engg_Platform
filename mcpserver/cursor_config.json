@@ -1,0 +1,25 @@
+{
+  "mcpServers": {
+    "meme-generator": {
+      "command": "C:\\Users\\adity\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+      "args": ["d:/mcp/mcpserver/meme_server.py"],
+      "env": {
+        "PYTHONPATH": "d:/mcp/mcpserver"
+      }
+    },
+    "weather": {
+      "command": "C:\\Users\\adity\\AppData\\Local\\Programs\\Python\\Python313\\python.exe", 
+      "args": ["d:/mcp/mcpserver/weather_server.py"],
+      "env": {
+        "PYTHONPATH": "d:/mcp/mcpserver"
+      }
+    },
+    "calculator": {
+      "command": "C:\\Users\\adity\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+      "args": ["d:/mcp/mcpserver/calculator_server.py"],
+      "env": {
+        "PYTHONPATH": "d:/mcp/mcpserver"
+      }
+    }
+  }
+}

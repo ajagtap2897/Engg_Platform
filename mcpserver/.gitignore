@@ -1,0 +1,27 @@
+# Virtual Environment
+Scripts/
+Lib/
+Include/
+pyvenv.cfg
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# API Keys and Credentials
+api_credentials.txt
+.env
+*.key
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
