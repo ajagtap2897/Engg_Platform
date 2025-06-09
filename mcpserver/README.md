@@ -205,6 +205,24 @@ Cursor AI: Shows user the weather information
 
 Once configured with Cursor IDE, you can use these tools by asking the AI to:
 
+## Screenshots
+
+### Cursor IDE Integration Demo
+
+Here are screenshots showing the MCP servers working with Cursor IDE:
+
+![Cursor MCP Setup 1](Cursor_1.png)
+*Initial setup and configuration of MCP servers in Cursor IDE*
+
+![Meme Generator in Action](Cursor_meme.png)
+*Meme generator server creating memes through Cursor AI*
+
+![Cursor MCP Setup 2](CUrsor_2.png)
+*Image genetated from the memeserver*
+
+![Weather Server Demo](cursor_weather.png)
+*Weather server providing real-time weather information*
+
 **Meme Generator**:
 - "Generate a Drake meme with 'Old way of doing things' on top and 'New MCP way' on bottom"
 - "List all available meme templates"
