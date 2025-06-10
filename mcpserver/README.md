@@ -562,7 +562,3 @@ python -c "import sys; print('\n'.join(sys.path))"
 
 ### **Cursor IDE**
 - [Cursor Documentation](https://docs.cursor.com/)
-- [MCP Integration Guide](https://docs.cursor.com/mcp)
-
-
-
