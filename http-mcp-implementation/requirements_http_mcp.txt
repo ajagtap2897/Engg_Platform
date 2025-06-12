@@ -1,0 +1,28 @@
+# Premium MCP Architecture Requirements
+# Official MCP SDK with Streamable HTTP Transport
+mcp[cli]>=1.9.2
+
+# LangChain MCP Integration
+langchain-mcp-adapters>=0.1.4
+langchain>=0.3.25
+langchain-openai>=0.3.18
+langchain-community>=0.3.0
+
+# HTTP and Async Support
+httpx>=0.27.0
+aiohttp>=3.9.0
+
+# Server Components
+fastapi>=0.110.0
+uvicorn>=0.27.0
+streamlit>=1.28.0
+
+# Core Dependencies
+openai>=1.3.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+pydantic>=2.5.0
+
+# Development and Monitoring
+rich>=13.0.0
+loguru>=0.7.0

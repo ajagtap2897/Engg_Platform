@@ -1,0 +1,108 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# C extensions
+*.so
+
+# Virtual environments
+.env/
+.venv/
+venv/
+ENV/
+env/
+venv_enhanced_mcp/
+
+# Environment files with credentials
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+*.env
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+
+# Logs
+*.log
+
+# Test and coverage
+.coverage
+htmlcov/
+*.cover
+*.py,cover
+
+# Pytest cache
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+
+# FastAPI/uvicorn reload artifacts
+*.pid
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore secrets
+*.secret
+*.key
+
+# Ignore local config
+config.yaml
+config.local.yaml
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Ignore pip wheel cache
+pip-wheel-metadata/
+
+# Ignore backup files
+*~
+*.bak
+
+# Ignore compiled files in src/
+src/__pycache__/
+
+# Ignore compiled files in mcp_servers/
+mcp_servers/__pycache__/
+
+# MCP-specific ignores
+# API keys and credentials
+*_api_key*
+*_secret*
+credentials.json
+api_credentials.txt
+
+# MCP server logs
+mcp_server.log
+weather_server.log
+
+# Temporary MCP files
+*.mcp.tmp
+mcp_cache/
+
+# IDE and editor files
+*.swp
+*.swo
+*~
+.idea/
+*.sublime-*
+
+# Windows specific
+desktop.ini
+$RECYCLE.BIN/
